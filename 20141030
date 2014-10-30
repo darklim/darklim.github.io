@@ -29,6 +29,27 @@
   		<p>育空影和員安願了科上通友苦用後的時、們命至、家收社。
   	公員庭光國低一可。</p>
   		<p>公員庭光國低一可。</p>
+  		<div class="table-responsive">
+  			<table class="table">
+  				<tr>
+  					<th class="info">AND</th>
+  					<th class="warning">TRUE</th>
+  					<th class="warning">FALSE</th>
+  				</tr>
+  				<tr>
+  					<th class="warning">TRUE</th>
+  					<td class="success">TRUE</td>
+  					<td class="danger">FALSE</td>
+  				</tr>
+  				<tr>
+  					<th class="warning">FALSE</th>
+  					<td class="danger">FALSE</td>
+  					<td class="danger">FALSE</td>
+  				</tr>
+  			</table>
+  		</div>
+  		<button type="button" class="btn btn-link">Link</button>
+  		<img src="">
   	  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   	  <!-- Include all compiled plugins (below), or include individual files as needed -->
